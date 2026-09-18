@@ -1,7 +1,5 @@
 package com.wisepay.dualllmpaymentswitch.dto;
 
-package com.bank.payment.dto;
-
 import jakarta.validation.constraints.*;
 import java.math.BigDecimal;
 
